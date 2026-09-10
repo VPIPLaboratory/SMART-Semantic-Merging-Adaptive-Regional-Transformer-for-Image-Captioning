@@ -20,7 +20,7 @@ cd coco_caption
 bash get_stanford_models.sh
 ```
 
-## Data preparation
+## 2. Data preparation
 The necessary files in training and evaluation are saved in __`mscoco`__ folder, which is organized as follows:
 ```
 mscoco/
